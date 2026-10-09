@@ -1,25 +1,29 @@
-
 # Attribution
 
-## AI Use
+## Checkpoint 1 – AI Use
 
-ChatGPT was used to assist with:
+No AI-assisted coding was used for Checkpoint 1.
 
-- Brainstorming the original Dodge Box concept.
-- Organizing and drafting the Game Design Document.
-- Expanding the design to include different enemy types, multiple levels, and arena layouts.
-- Developing ideas for difficulty progression and gameplay mechanics.
-- Preparing and revising project documentation.
-- Providing guidance on GitHub repository setup.
+## Checkpoint 2 – AI Use
 
-The proposed game design will be reviewed and adjusted during development.
+**AI Tool:** ChatGPT (OpenAI)
+
+**October 7, 2026 – Glowing Barriers**
+
+**Prompt:** "Add barriers and those barriers should light up when touched."
+
+**Purpose:** Used AI to help implement barriers that glow when the player touches them, including collision detection.
+
+**October 9, 2026 – Health System**
+
+**Prompt:** "The barriers should look different and touching the barrier cuts health as well."
+
+**Purpose:** Used AI to help redesign the barriers and implement health reduction, a health bar that changes colour (green, yellow, red), and a damage cooldown.
 
 ## Third-Party Assets
 
-No third-party assets are currently being used.
+No third-party assets are currently used.
 
 ## Original Assets
 
-The game is planned to use simple geometric shapes and colours rendered using Raylib.
-
-Any additional third-party assets used during development will be documented here with their sources and licenses.
+The game uses geometric shapes and colours rendered using Raylib.
